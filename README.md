@@ -10,6 +10,7 @@ This repo contains following folders:-
 	
 ## Extractive
 -  'extractive_nltk.py' generates summaries based on word frequency and sentence scores
+-  
 	**Logic**
 	-  Pre-process the text: remove stop words
 	-  Tokenize whole text and creates weighted word frequeny dictionary
@@ -18,6 +19,7 @@ This repo contains following folders:-
 	-  To generate summary on test set run 'python extractive_nltk.py'
 		
 - 'extractive_gensim.py' generates summaries using 'summarize' module of 'gensim' library which is based on 'TextRank' an unsupervised algorithm based on weighted-graphs. 
+- 
 	**Logic**
 	-  Pre-process the text: remove stop words and stem the remaining words.
 	-  Create a graph where vertices are sentences.
@@ -37,6 +39,7 @@ References used to build abstractive summarization using transformer
 [Link](https://huggingface.co/transformers/model_doc/pegasus.html)
 
 -  'abstractive_summarizer.py' (does not work)
+-  
  	**Logic**
 	
 
