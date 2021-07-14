@@ -31,14 +31,7 @@ This repo contains following folders:-
 -  'submission_nltk.csv' and 'submission_gensim.csv' output files
 	
 ## Abstractive
-References used to build abstractive summarization using transformer
-[Link](https://www.tensorflow.org/text/tutorials/transformer)
-
-[Link](https://medium.com/swlh/abstractive-text-summarization-using-transformers-3e774cc42453)
-
-[Link](https://huggingface.co/transformers/model_doc/pegasus.html)
-
--  'abstractive_summarizer.py' (does not work)
+-  'abstractive_summarizer.py' tummarization using deep learning and transformers (does not work)
 -  
  	**Logic**
 	
@@ -50,3 +43,11 @@ References used to build abstractive summarization using transformer
 [theory](https://medium.com/luisfredgs/automatic-text-summarization-with-machine-learning-an-overview-68ded5717a25)
 
 [theory](https://rare-technologies.com/text-summarization-in-python-extractive-vs-abstractive-techniques-revisited/)
+
+**References used to build abstractive summarization using transformer**
+
+[Link](https://www.tensorflow.org/text/tutorials/transformer)
+
+[Link](https://medium.com/swlh/abstractive-text-summarization-using-transformers-3e774cc42453)
+
+[Link](https://huggingface.co/transformers/model_doc/pegasus.html)
