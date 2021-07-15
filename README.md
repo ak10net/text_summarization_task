@@ -3,10 +3,10 @@
 
 Definitions:-
 -  *Extractive*
-Extractive Summarization essentially involves extracting particular pieces of text (usually sentences) based on predefined weights assigned to the important words where the selection of the text depends on the weights of the words in it. Usually, the default weights are assigned according to the frequency of occurrence of a word. Summary contains sentences from original text.
+-  Extractive Summarization essentially involves extracting particular pieces of text (usually sentences) based on predefined weights assigned to the important words where the selection of the text depends on the weights of the words in it. Usually, the default weights are assigned according to the frequency of occurrence of a word. Summary contains sentences from original text.
 
 -  *Abstractive*
-Abstractive Summarization includes heuristic approaches to train the system in making an attempt to understand the whole context and generate a summary based on that understanding. Summary may or may not contain sentences from original text.
+-  Abstractive Summarization includes heuristic approaches to train the system in making an attempt to understand the whole context and generate a summary based on that understanding. Summary may or may not contain sentences from original text.
 
 
 This repo contains following folders:-
